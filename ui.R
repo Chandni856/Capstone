@@ -7,7 +7,7 @@
 #    http://shiny.rstudio.com/
 #
 
-### Data Science Capstone : Course Project
+### Data Science Capstone :course project
 ### ui.R file for the Shiny app
 ### Github repo : https://github.com/sriharshams/coursera-data-science-capstone
 suppressWarnings(library(shiny))
